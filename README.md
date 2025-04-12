@@ -15,7 +15,7 @@
 
 
 ## 📖 목차 (Table of Contents)
-- [기술 스택](#🛠기술-스택)
+- [기술 스택](#기술-스택)
 - [Backend](#Backend)
 - [Frontend](#Frontend)
 - [DB](#DB)
