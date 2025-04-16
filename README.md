@@ -66,7 +66,7 @@
 컴퓨터소프트웨어학과 전공 (졸업 예정)
 
 ## 🏆 Certificates
-
+- https://campus.programmers.co.kr/app/courses/25141/dashboard (코딩 테스트)
 - 정보처리기사 예정(필기 / 실기)
 - AWS prantitioner - (date)
 
