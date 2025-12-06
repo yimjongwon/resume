@@ -56,7 +56,7 @@
 > 미세먼지와 온습도 데이터를 기반으로 한 IoT 환경 모니터링 시스템  
 **기술스택**: Spring Boot, WebSocket, MySQL, Streamlit  
 **주요 기능**: 사용자/관리자 역할 분리, 실시간 대시보드, 채팅 기능
-- [🔗 GitHub Repo](https://github.com/yimjongwon/project_7.git) ← 링크 수정 필요
+- [🔗 스마트 환경 관리 시스템](https://github.com/yimjongwon/project_7.git) 
 
 ---
 
