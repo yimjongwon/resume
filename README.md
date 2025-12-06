@@ -32,7 +32,7 @@
 ### Backend
 - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=Spring-Boot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-005B9A?style=flat)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frontend
 - HTML, CSS, JavaScript
@@ -40,6 +40,7 @@
 
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 ### Tools
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
