@@ -78,7 +78,6 @@
 ## 📫 연락처
 
 - 📧 Email: awosung00@naver.com
-- 🐱 GitHub: [github.com/syjung64](https://github.com/syjung64)  
 - 🌐 Portfolio: [syjung64.github.io/resume](https://syjung64.github.io/resume/)
 
 ---
