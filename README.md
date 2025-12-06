@@ -1,6 +1,6 @@
 # 👨‍💻 임종원 | Resume
 
-[👉 이력서 바로가기](https://syjung64.github.io/resume/)
+[👉 이력서 바로가기](https://github.com/yimjongwon/resume.git/)
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 💻 꾸준한 성장과 학습을 즐기는 개발자
 - 🌱 Java / Spring Boot / MyBatis / MySQL / REST API 등 활용 가능
-- 📈 문제 해결, 성능 개선, 코드 리팩토링에 관심 많음
+- 📈 문제 해결, 성능 개선, 코드 리팩토링, 클라우드, 자동화에 관심 많음
 - 📬 Contact : awosung00@naver.com
 
 ---
@@ -54,7 +54,7 @@
 
 ### 1. **스마트 환경 관리 시스템**  
 > 미세먼지와 온습도 데이터를 기반으로 한 IoT 환경 모니터링 시스템  
-**기술스택**: Spring Boot, WebSocket, MySQL, MyBatis, Streamlit  
+**기술스택**: Spring Boot, WebSocket, MySQL, Streamlit  
 **주요 기능**: 사용자/관리자 역할 분리, 실시간 대시보드, 채팅 기능
 - [🔗 GitHub Repo](https://github.com/yimjongwon/project_7.git) ← 링크 수정 필요
 
@@ -63,12 +63,12 @@
 ## 📚 Education
 
 **동양미래대학**  
-컴퓨터소프트웨어학과 전공 (졸업 예정)
+컴퓨터소프트웨어학과 학사 전공 (졸업 예정)
 
 ## 🏆 Certificates
 - https://campus.programmers.co.kr/app/courses/25141/dashboard (코딩 테스트)
 - 정보처리기사 예정(필기 / 실기)
-- AWS prantitioner - (date)
+- AWS Practitioner - (2025.08.06)
 
 ---
 
