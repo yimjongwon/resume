@@ -1,6 +1,6 @@
 # 👨‍💻 임종원 | Resume
 
-[👉 이력서 바로가기](https://github.com/yimjongwon/resume.git/)
+[👉 이력서 바로가기](https://yimjongwon.github.io/)
 
 ---
 
