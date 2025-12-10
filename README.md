@@ -63,7 +63,7 @@
 **기술스택**: Gemini 2.5 Flash API, Firebase Realtime DB, TypeScript
 **주요 기능**: Flow활용 AI 기반 공익광고 제작, Gemini 기반 감정 분류 및 데이터 관리 
 - [🔗 운전자 전방주시 설문조사](https://github.com/yimjongwon/driving-test-app)
-- 
+  
 ---
 
 ## 📚 Education
