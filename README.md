@@ -78,8 +78,7 @@
 ## 📫 연락처
 
 - 📧 Email: awosung00@naver.com
-- 🌐 Portfolio: [syjung64.github.io/resume](https://syjung64.github.io/resume/)
-
+- 🌐 Portfolio: [yimjongwon.github.io/driving-test-app/](https://yimjongwon.github.io/driving-test-app/)
 ---
 
 감사합니다! 🙌
