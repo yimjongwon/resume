@@ -24,7 +24,7 @@
 - [프로젝트](#프로젝트)
 - [Education](#Education)
 - [Certificates](#Certificates)
-- [연락처(#연락처)
+- [연락처](#연락처)
 ---
 
 ## 🛠 기술 스택
