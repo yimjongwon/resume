@@ -58,6 +58,7 @@
 **기술스택**: Spring Boot, WebSocket, MySQL, Streamlit  
 **주요 기능**: 사용자/관리자 역할 분리, 실시간 대시보드, 채팅 기능
 - [🔗 스마트 환경 관리 시스템](https://github.com/yimjongwon/project_7.git) 
+### 2. **AI를 활용한 운전자 전방주시 설문조사**  
 
 ---
 
