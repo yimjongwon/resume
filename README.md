@@ -59,7 +59,10 @@
 **주요 기능**: 사용자/관리자 역할 분리, 실시간 대시보드, 채팅 기능
 - [🔗 스마트 환경 관리 시스템](https://github.com/yimjongwon/project_7.git) 
 ### 2. **AI를 활용한 운전자 전방주시 설문조사**  
-
+> Realtime DB와 Gemini API를 활용하여 사용자의 텍스트를 바탕으로 감정을 분류하는 AI 활용, Flow를 활용한 영상 제작, 피드백 수집 서비스
+**기술스택**: Gemini 2.5 Flash API, Firebase Realtime DB, TypeScript
+**주요 기능**: Flow활용 AI 기반 공익광고 제작, Gemini 기반 감정 분류 및 데이터 관리 
+- 
 ---
 
 ## 📚 Education
