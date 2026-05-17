@@ -46,9 +46,26 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=IntelliJ-IDEA&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 ### Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### 아키텍처 다이어그램
+### 1. 하이브리드 클라우드 인프라 구성도
+<p align="center">
+<img src="./asset/하이브리드 클라우드 인프라 구성도.drawio.png" 
+     width="50%" 
+     alt="하이브리드 클라우드 인프라 구성도">
+</p>
+
+### 2. CI/CD 파이프라인 구성도
+<p align="center">
+<img src="./asset/CI_CD Pipe line.drawio.png" 
+     width="50%" 
+     alt="CI/CD 파이프라인 구성도">
+</p>
+
 ---
 
 ## 📂 프로젝트
@@ -75,6 +92,7 @@
 - https://campus.programmers.co.kr/app/courses/25141/dashboard (코딩 테스트)
 - 정보처리기사 예정(필기 / 실기)
 - AWS Practitioner - (2025.08.06)
+- 네트워크 관리사 2급
 
 ---
 
