@@ -59,7 +59,15 @@
      alt="하이브리드 클라우드 인프라 구성도">
 </p>
 
-### 2. CI/CD 파이프라인 구성도
+#### 2. AWS 구조
+<p align="center">
+<img src="./asset/aws구조.drawio.png" 
+     width="50%" 
+     alt="aws구조">
+</p>
+
+
+#### 3. CI/CD 파이프라인 구성도
 <p align="center">
 <img src="./asset/CI_CD Pipe line.drawio.png" 
      width="50%" 
